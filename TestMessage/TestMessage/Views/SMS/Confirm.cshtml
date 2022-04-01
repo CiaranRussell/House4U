@@ -1,0 +1,30 @@
+﻿@model TestMessage.Models.SMSMessage
+
+@{
+    ViewData["Title"] = "Confirm";
+}
+
+<h1>Confirm - Message Sent</h1>
+
+<div>
+    <h4>SMSMessage</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ToMobileNumber)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ToMobileNumber)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Send Another message", "Send")
+    
+</div>
