@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bd90cd49-1482-42f9-972b-9c2a68159e00" name="admin@COMPRES-09 2012-06-01 10:16:06" runUser="compres-09\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b8161d5f-daa5-4e39-a9a0-83185e403145">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_COMPRES-09 2012-06-01 10_16_06">
+      <DeploymentItem filename="C:\gary\EAD\Unit Testing\Bank2\Bank\bin\Debug\Bank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-01T10:16:06.3190430+01:00" queuing="2012-06-01T10:16:06.3658431+01:00" start="2012-06-01T10:16:06.3814431+01:00" finish="2012-06-01T10:16:06.7090437+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="7" passed="6" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestDepositAndWithdrawal1" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="84b712ec-9553-c336-d2fe-cac669b34401">
+      <Execution id="6cbe0de1-1e00-47e9-bfa9-e475f23538d3" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDepositAndWithdrawal1" />
+    </UnitTest>
+    <UnitTest name="TestDepositAndWithdrawal5" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="f67829a0-4e86-f10c-18f6-5f68ee2fc755">
+      <Execution id="2ba1ec55-089a-437d-962d-25ede8fd8ee9" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDepositAndWithdrawal5" />
+    </UnitTest>
+    <UnitTest name="TestDepositAndWithdrawal3" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="e259aa7e-0f51-b5df-42f9-2af0b5497cde">
+      <Execution id="5bc0221e-b7ce-489c-a8d9-76bf3ffff628" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDepositAndWithdrawal3" />
+    </UnitTest>
+    <UnitTest name="TestDepositAndWithdrawal4" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="853bba0b-29b7-90f7-f954-de886d8dd0d8">
+      <Execution id="31037743-9346-477f-b171-6150341e8132" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDepositAndWithdrawal4" />
+    </UnitTest>
+    <UnitTest name="TestDeposit1" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="c6099938-abf9-93a0-6ec6-8bf564a7c7f9">
+      <Execution id="79722456-42b8-484c-8a13-577d8b630c7c" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDeposit1" />
+    </UnitTest>
+    <UnitTest name="CreateBankAccountWithInvalidOverdraftLimit" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="0c6708e6-9550-e739-77ce-a79e5364391d">
+      <Execution id="9ce7ef6b-992f-4988-9939-c938a4c12372" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateBankAccountWithInvalidOverdraftLimit" />
+    </UnitTest>
+    <UnitTest name="TestDepositAndWithdrawal2" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="d8b36b3f-6dc0-b7d8-3e55-68c904fd0a70">
+      <Execution id="735d347d-b708-40ea-bb68-6a4f9001ba0e" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDepositAndWithdrawal2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0c6708e6-9550-e739-77ce-a79e5364391d" executionId="9ce7ef6b-992f-4988-9939-c938a4c12372" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="84b712ec-9553-c336-d2fe-cac669b34401" executionId="6cbe0de1-1e00-47e9-bfa9-e475f23538d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="853bba0b-29b7-90f7-f954-de886d8dd0d8" executionId="31037743-9346-477f-b171-6150341e8132" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c6099938-abf9-93a0-6ec6-8bf564a7c7f9" executionId="79722456-42b8-484c-8a13-577d8b630c7c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d8b36b3f-6dc0-b7d8-3e55-68c904fd0a70" executionId="735d347d-b708-40ea-bb68-6a4f9001ba0e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e259aa7e-0f51-b5df-42f9-2af0b5497cde" executionId="5bc0221e-b7ce-489c-a8d9-76bf3ffff628" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f67829a0-4e86-f10c-18f6-5f68ee2fc755" executionId="2ba1ec55-089a-437d-962d-25ede8fd8ee9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9ce7ef6b-992f-4988-9939-c938a4c12372" testId="0c6708e6-9550-e739-77ce-a79e5364391d" testName="CreateBankAccountWithInvalidOverdraftLimit" computerName="COMPRES-09" duration="00:00:00.0148828" startTime="2012-06-01T10:16:06.3970432+01:00" endTime="2012-06-01T10:16:06.5998435+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ce7ef6b-992f-4988-9939-c938a4c12372">
+    </UnitTestResult>
+    <UnitTestResult executionId="6cbe0de1-1e00-47e9-bfa9-e475f23538d3" testId="84b712ec-9553-c336-d2fe-cac669b34401" testName="TestDepositAndWithdrawal1" computerName="COMPRES-09" duration="00:00:00.0018767" startTime="2012-06-01T10:16:06.5998435+01:00" endTime="2012-06-01T10:16:06.6154435+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6cbe0de1-1e00-47e9-bfa9-e475f23538d3">
+    </UnitTestResult>
+    <UnitTestResult executionId="31037743-9346-477f-b171-6150341e8132" testId="853bba0b-29b7-90f7-f954-de886d8dd0d8" testName="TestDepositAndWithdrawal4" computerName="COMPRES-09" duration="00:00:00.0009554" startTime="2012-06-01T10:16:06.6154435+01:00" endTime="2012-06-01T10:16:06.6310436+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="31037743-9346-477f-b171-6150341e8132">
+    </UnitTestResult>
+    <UnitTestResult executionId="79722456-42b8-484c-8a13-577d8b630c7c" testId="c6099938-abf9-93a0-6ec6-8bf564a7c7f9" testName="TestDeposit1" computerName="COMPRES-09" duration="00:00:00.0081922" startTime="2012-06-01T10:16:06.6310436+01:00" endTime="2012-06-01T10:16:06.6466436+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="79722456-42b8-484c-8a13-577d8b630c7c">
+    </UnitTestResult>
+    <UnitTestResult executionId="735d347d-b708-40ea-bb68-6a4f9001ba0e" testId="d8b36b3f-6dc0-b7d8-3e55-68c904fd0a70" testName="TestDepositAndWithdrawal2" computerName="COMPRES-09" duration="00:00:00.0068441" startTime="2012-06-01T10:16:06.6466436+01:00" endTime="2012-06-01T10:16:06.6622436+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="735d347d-b708-40ea-bb68-6a4f9001ba0e">
+    </UnitTestResult>
+    <UnitTestResult executionId="5bc0221e-b7ce-489c-a8d9-76bf3ffff628" testId="e259aa7e-0f51-b5df-42f9-2af0b5497cde" testName="TestDepositAndWithdrawal3" computerName="COMPRES-09" duration="00:00:00.0048776" startTime="2012-06-01T10:16:06.6622436+01:00" endTime="2012-06-01T10:16:06.6934437+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5bc0221e-b7ce-489c-a8d9-76bf3ffff628">
+    </UnitTestResult>
+    <UnitTestResult executionId="2ba1ec55-089a-437d-962d-25ede8fd8ee9" testId="f67829a0-4e86-f10c-18f6-5f68ee2fc755" testName="TestDepositAndWithdrawal5" computerName="COMPRES-09" duration="00:00:00.0081229" startTime="2012-06-01T10:16:06.6934437+01:00" endTime="2012-06-01T10:16:06.6934437+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2ba1ec55-089a-437d-962d-25ede8fd8ee9">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method TestBank2.BankUnitTest.TestDepositAndWithdrawal5 did not throw expected exception System.ArgumentException.</Message>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,7 @@
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\bin\Debug\TestBank2.dll
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\bin\Debug\TestBank2.pdb
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\bin\Debug\Bank.dll
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\bin\Debug\Bank.pdb
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\obj\Debug\ResolveAssemblyReference.cache
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\obj\Debug\TestBank2.dll
+C:\gary\EAD\Unit Testing\Bank2\TestBank2\obj\Debug\TestBank2.pdb

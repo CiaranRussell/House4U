@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b7ba5242-c727-46c9-a265-380550721035" name="admin@COMPRES-09 2012-06-01 10:25:46" runUser="compres-09\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b8161d5f-daa5-4e39-a9a0-83185e403145">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_COMPRES-09 2012-06-01 10_25_46">
+      <DeploymentItem filename="C:\gary\EAD\Unit Testing\Bank2\Bank\bin\Debug\Bank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-01T10:25:46.4558154+01:00" queuing="2012-06-01T10:25:46.4870155+01:00" start="2012-06-01T10:25:46.5026155+01:00" finish="2012-06-01T10:25:46.7990161+01:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestTransactionHistory2" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="633a9292-80ce-e35e-1ab5-ad42bfafebf9">
+      <Execution id="37bfff1d-993d-4371-9564-576e3afb3dc2" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestTransactionHistory2" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="633a9292-80ce-e35e-1ab5-ad42bfafebf9" executionId="37bfff1d-993d-4371-9564-576e3afb3dc2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="37bfff1d-993d-4371-9564-576e3afb3dc2" testId="633a9292-80ce-e35e-1ab5-ad42bfafebf9" testName="TestTransactionHistory2" computerName="COMPRES-09" duration="00:00:00.0138944" startTime="2012-06-01T10:25:46.5650156+01:00" endTime="2012-06-01T10:25:46.7678160+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="37bfff1d-993d-4371-9564-576e3afb3dc2">
+    </UnitTestResult>
+  </Results>
+</TestRun>

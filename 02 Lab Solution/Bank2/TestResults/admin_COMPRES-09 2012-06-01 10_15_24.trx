@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="bd7d053c-4ed7-4a3c-9f73-f53df1c4ba74" name="admin@COMPRES-09 2012-06-01 10:15:24" runUser="compres-09\admin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b8161d5f-daa5-4e39-a9a0-83185e403145">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="admin_COMPRES-09 2012-06-01 10_15_24">
+      <DeploymentItem filename="C:\gary\EAD\Unit Testing\Bank2\Bank\bin\Debug\Bank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-06-01T10:15:24.2406780+01:00" queuing="2012-06-01T10:15:24.4590784+01:00" start="2012-06-01T10:15:24.5214785+01:00" finish="2012-06-01T10:15:25.0674795+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestDepositAndWithdrawal5" storage="c:\gary\ead\unit testing\bank2\testbank2\bin\debug\testbank2.dll" id="f67829a0-4e86-f10c-18f6-5f68ee2fc755">
+      <Execution id="7780a264-da39-4e61-af98-b5d24b4a88c2" />
+      <TestMethod codeBase="C:/gary/EAD/Unit Testing/Bank2/TestBank2/bin/Debug/TestBank2.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestBank2.BankUnitTest, TestBank2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDepositAndWithdrawal5" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f67829a0-4e86-f10c-18f6-5f68ee2fc755" executionId="7780a264-da39-4e61-af98-b5d24b4a88c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="7780a264-da39-4e61-af98-b5d24b4a88c2" testId="f67829a0-4e86-f10c-18f6-5f68ee2fc755" testName="TestDepositAndWithdrawal5" computerName="COMPRES-09" duration="00:00:00.1466108" startTime="2012-06-01T10:15:24.5526786+01:00" endTime="2012-06-01T10:15:25.0050794+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7780a264-da39-4e61-af98-b5d24b4a88c2">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Fail failed. </Message>
+          <StackTrace>   at TestBank2.BankUnitTest.TestDepositAndWithdrawal5() in C:\gary\EAD\Unit Testing\Bank2\TestBank2\BankUnitTest.cs:line 73
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

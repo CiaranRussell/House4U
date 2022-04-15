@@ -1,0 +1,81 @@
+C:\GC\StockOrder\StockOrder\bin\roslyn\csc.exe
+C:\GC\StockOrder\StockOrder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GC\StockOrder\StockOrder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GC\StockOrder\StockOrder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GC\StockOrder\StockOrder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GC\StockOrder\StockOrder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GC\StockOrder\StockOrder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GC\StockOrder\StockOrder\bin\roslyn\System.Collections.Immutable.dll
+C:\GC\StockOrder\StockOrder\bin\roslyn\System.Reflection.Metadata.dll
+C:\GC\StockOrder\StockOrder\bin\roslyn\vbc.exe
+C:\GC\StockOrder\StockOrder\bin\roslyn\VBCSCompiler.exe
+C:\GC\StockOrder\StockOrder\bin\roslyn\VBCSCompiler.exe.config
+C:\GC\StockOrder\StockOrder\bin\StockOrder.dll.config
+C:\GC\StockOrder\StockOrder\bin\StockOrder.dll
+C:\GC\StockOrder\StockOrder\bin\StockOrder.pdb
+C:\GC\StockOrder\StockOrder\bin\Antlr3.Runtime.dll
+C:\GC\StockOrder\StockOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GC\StockOrder\StockOrder\bin\Microsoft.Web.Infrastructure.dll
+C:\GC\StockOrder\StockOrder\bin\Newtonsoft.Json.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.Helpers.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.Mvc.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.Optimization.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.Razor.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.WebPages.Deployment.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.WebPages.dll
+C:\GC\StockOrder\StockOrder\bin\System.Web.WebPages.Razor.dll
+C:\GC\StockOrder\StockOrder\bin\WebGrease.dll
+C:\GC\StockOrder\StockOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.Helpers.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.Mvc.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.Optimization.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.Razor.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.WebPages.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.WebPages.Deployment.xml
+C:\GC\StockOrder\StockOrder\bin\System.Web.WebPages.Razor.xml
+C:\GC\StockOrder\StockOrder\bin\Antlr3.Runtime.pdb
+C:\GC\StockOrder\StockOrder\bin\Newtonsoft.Json.xml
+C:\GC\StockOrder\StockOrder\obj\Debug\StockOrder.dll
+C:\GC\StockOrder\StockOrder\obj\Debug\StockOrder.pdb
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\obj\Debug\StockOrder.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\obj\Debug\StockOrder.pdb
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\csc.exe
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\System.Collections.Immutable.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\System.Reflection.Metadata.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\vbc.exe
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\VBCSCompiler.exe
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\roslyn\VBCSCompiler.exe.config
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\StockOrder.dll.config
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\StockOrder.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\StockOrder.pdb
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Antlr3.Runtime.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Microsoft.Web.Infrastructure.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Newtonsoft.Json.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Helpers.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Mvc.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Optimization.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Razor.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.WebPages.Deployment.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.WebPages.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.WebPages.Razor.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\WebGrease.dll
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Helpers.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Mvc.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Optimization.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.Razor.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.WebPages.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.WebPages.Deployment.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\System.Web.WebPages.Razor.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Antlr3.Runtime.pdb
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\bin\Newtonsoft.Json.xml
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\obj\Debug\StockOrder.csproj.AssemblyReference.cache
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\obj\Debug\StockOrder.csproj.CoreCompileInputs.cache
+C:\EAD\03 - Sample Code\mvc samples\StockOrder\StockOrder\obj\Debug\StockOrder.csproj.CopyComplete

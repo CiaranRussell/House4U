@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<h1>Welcome</h1>
+
+@{
+    String zone = TimeZone.CurrentTimeZone.StandardName;
+}
+
+<h2>@ViewBag.Message @zone</h2>

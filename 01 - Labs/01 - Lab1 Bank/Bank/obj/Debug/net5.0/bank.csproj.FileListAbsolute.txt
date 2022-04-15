@@ -1,0 +1,16 @@
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.csproj.AssemblyReference.cache
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.AssemblyInfoInputs.cache
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.AssemblyInfo.cs
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.csproj.CoreCompileInputs.cache
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\bank.exe
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\bank.deps.json
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\bank.runtimeconfig.json
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\bank.runtimeconfig.dev.json
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\bank.dll
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\ref\bank.dll
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\bin\Debug\net5.0\bank.pdb
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.dll
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\ref\bank.dll
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.pdb
+C:\EAD\01 - Labs\01 - Lab1 Bank\Bank\obj\Debug\net5.0\bank.genruntimeconfig.cache

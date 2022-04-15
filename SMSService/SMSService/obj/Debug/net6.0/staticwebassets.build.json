@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gN5g+MgcpuEFQgYuHDpmwp2vV18m0y63zeRfTiBEE3I=",
+  "Source": "SMSService",
+  "BasePath": "_content/SMSService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

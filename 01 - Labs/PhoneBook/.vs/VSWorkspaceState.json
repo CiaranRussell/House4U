@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PhoneBook",
+    "\\PhoneBook\\bin",
+    "\\PhoneBook\\bin\\Debug",
+    "\\PhoneBook\\Models",
+    "\\PhoneBook\\obj"
+  ],
+  "SelectedNode": "\\PhoneBook\\Models\\Context.cs",
+  "PreviewInSolutionExplorer": false
+}

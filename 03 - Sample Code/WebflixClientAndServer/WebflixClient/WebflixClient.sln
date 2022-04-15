@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebflixClient", "WebflixClient\WebflixClient.csproj", "{DC41EFD0-AA30-4C64-A7BD-02B8CEE3F24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC41EFD0-AA30-4C64-A7BD-02B8CEE3F24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC41EFD0-AA30-4C64-A7BD-02B8CEE3F24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC41EFD0-AA30-4C64-A7BD-02B8CEE3F24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC41EFD0-AA30-4C64-A7BD-02B8CEE3F24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1461D9C0-9C85-44B3-9DD6-5EF21F7E08FA}
+	EndGlobalSection
+EndGlobal

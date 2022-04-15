@@ -1,0 +1,277 @@
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+C:\Users\gclynch\OneDrive\EAD1\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+C:\Users\gary.LAB040-17\OneDrive\MVC 5\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GC\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csprojResolveAssemblyReference.cache
+C:\GC\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+C:\GC\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll.config
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\HelloWorldMVC.pdb
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Owin.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\WebGrease.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Helpers.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Mvc.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Optimization.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.Razor.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Deployment.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\System.Web.WebPages.Razor.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Antlr3.Runtime.pdb
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Newtonsoft.Json.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\EntityFramework.SqlServer.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Facebook.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Google.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.Twitter.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csproj.AssemblyReference.cache
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csproj.CoreCompileInputs.cache
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.csproj.CopyComplete
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.dll
+C:\EAD\03 - Sample Code\mvc samples\HelloWorldMVC\HelloWorldMVC\obj\Debug\HelloWorldMVC.pdb

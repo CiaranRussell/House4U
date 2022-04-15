@@ -1,0 +1,5 @@
+M:\EAD\Unit Testing\Bank\Bank\bin\Debug\Bank.pdb
+M:\EAD\Unit Testing\Bank\Bank\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\EAD\Unit Testing\Bank\Bank\obj\x86\Debug\Bank.pdb
+M:\EAD\Unit Testing\Bank\Bank\bin\Debug\Bank.dll
+M:\EAD\Unit Testing\Bank\Bank\obj\x86\Debug\Bank.dll

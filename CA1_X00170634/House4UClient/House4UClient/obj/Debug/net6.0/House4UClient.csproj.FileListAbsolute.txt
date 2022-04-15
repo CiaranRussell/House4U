@@ -1,0 +1,15 @@
+C:\EAD\House4UClient\House4UClient\bin\Debug\net6.0\House4UClient.exe
+C:\EAD\House4UClient\House4UClient\bin\Debug\net6.0\House4UClient.deps.json
+C:\EAD\House4UClient\House4UClient\bin\Debug\net6.0\House4UClient.runtimeconfig.json
+C:\EAD\House4UClient\House4UClient\bin\Debug\net6.0\House4UClient.dll
+C:\EAD\House4UClient\House4UClient\bin\Debug\net6.0\House4UClient.pdb
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.csproj.AssemblyReference.cache
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.AssemblyInfoInputs.cache
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.AssemblyInfo.cs
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.csproj.CoreCompileInputs.cache
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.dll
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\refint\House4UClient.dll
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.pdb
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\House4UClient.genruntimeconfig.cache
+C:\EAD\House4UClient\House4UClient\obj\Debug\net6.0\ref\House4UClient.dll
