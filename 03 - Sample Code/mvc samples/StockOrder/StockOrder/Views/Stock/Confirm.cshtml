@@ -1,0 +1,14 @@
+﻿@model StockOrder.Models.Order
+
+@{
+    ViewBag.Title = "Confirm";
+}
+
+<h2>Order Confirmation</h2>
+
+<fieldset>
+    Thanks for your order, please shop with us again
+
+    <div class="display-label">Item Code:  @Html.DisplayFor(model => model.ItemCode)</div>
+    <div class="display-label">Qty:  @Html.DisplayFor(model => model.Qty)</div>
+</fieldset>

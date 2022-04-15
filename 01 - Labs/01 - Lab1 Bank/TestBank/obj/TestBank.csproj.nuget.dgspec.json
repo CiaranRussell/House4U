@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\TestBank\\TestBank.csproj": {}
+  },
+  "projects": {
+    "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\Bank\\bank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\Bank\\bank.csproj",
+        "projectName": "bank",
+        "projectPath": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\Bank\\bank.csproj",
+        "packagesPath": "C:\\Users\\ciaranrussell\\.nuget\\packages\\",
+        "outputPath": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\Bank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciaranrussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\TestBank\\TestBank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\TestBank\\TestBank.csproj",
+        "projectName": "TestBank",
+        "projectPath": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\TestBank\\TestBank.csproj",
+        "packagesPath": "C:\\Users\\ciaranrussell\\.nuget\\packages\\",
+        "outputPath": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\TestBank\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ciaranrussell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\Bank\\bank.csproj": {
+                "projectPath": "c:\\EAD\\01 - Labs\\01 - Lab1 Bank\\Bank\\bank.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

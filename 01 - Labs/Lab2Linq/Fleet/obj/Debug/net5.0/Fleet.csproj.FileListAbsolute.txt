@@ -1,0 +1,16 @@
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\Fleet.exe
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\Fleet.deps.json
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\Fleet.runtimeconfig.json
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\Fleet.runtimeconfig.dev.json
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\Fleet.dll
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\ref\Fleet.dll
+C:\EAD\01 - Labs\Lab2Linq\Fleet\bin\Debug\net5.0\Fleet.pdb
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.csproj.AssemblyReference.cache
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.GeneratedMSBuildEditorConfig.editorconfig
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.AssemblyInfoInputs.cache
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.AssemblyInfo.cs
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.csproj.CoreCompileInputs.cache
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.dll
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\ref\Fleet.dll
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.pdb
+C:\EAD\01 - Labs\Lab2Linq\Fleet\obj\Debug\net5.0\Fleet.genruntimeconfig.cache

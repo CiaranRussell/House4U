@@ -1,0 +1,165 @@
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.dll.config
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.pdb
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Antlr3.Runtime.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Owin.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Helpers.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Mvc.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Optimization.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Razor.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Razor.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\WebGrease.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Helpers.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Mvc.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Optimization.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Razor.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Razor.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Antlr3.Runtime.pdb
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.dll
+C:\Users\gary.LAB040-17\OneDrive\EAD1\MVC 5\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.dll.config
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.pdb
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Antlr3.Runtime.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.SqlServer.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Newtonsoft.Json.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Owin.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Helpers.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Mvc.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Optimization.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Razor.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Razor.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\WebGrease.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Helpers.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Mvc.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Optimization.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.Razor.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Razor.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Antlr3.Runtime.pdb
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Newtonsoft.Json.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\EntityFramework.SqlServer.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.dll
+C:\Users\gclynch\OneDrive\MVC 5\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb
+C:\GC\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.dll.config
+C:\GC\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\TemperatureConverter.pdb
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Antlr3.Runtime.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\EntityFramework.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\EntityFramework.SqlServer.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Core.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Cookies.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Facebook.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Google.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.OAuth.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Twitter.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Web.Infrastructure.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Newtonsoft.Json.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Owin.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Helpers.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Mvc.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Optimization.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Razor.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Deployment.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Razor.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\WebGrease.dll
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Helpers.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Mvc.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Optimization.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.Razor.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Deployment.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\System.Web.WebPages.Razor.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Antlr3.Runtime.pdb
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Newtonsoft.Json.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\EntityFramework.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\EntityFramework.SqlServer.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Core.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Facebook.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Cookies.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.OAuth.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Google.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.Twitter.xml
+C:\GC\TemperatureConverter\TemperatureConverter\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\GC\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.csprojResolveAssemblyReference.cache
+C:\GC\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.dll
+C:\GC\TemperatureConverter\TemperatureConverter\obj\Debug\TemperatureConverter.pdb

@@ -1,0 +1,80 @@
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\csc.exe
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\vbc.exe
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\VBCSCompiler.exe
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\StudentRegister.dll.config
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\StudentRegister.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\StudentRegister.pdb
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Antlr3.Runtime.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Newtonsoft.Json.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Helpers.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Mvc.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Optimization.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Razor.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.WebPages.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.WebPages.Razor.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\WebGrease.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Helpers.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Mvc.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Optimization.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.Razor.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.WebPages.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\System.Web.WebPages.Razor.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Antlr3.Runtime.pdb
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\bin\Newtonsoft.Json.xml
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\obj\Debug\StudentRegister.dll
+C:\Users\gclynch\OneDrive\MVC 5\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\csc.exe
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\System.Collections.Immutable.dll
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\System.Reflection.Metadata.dll
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\vbc.exe
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\VBCSCompiler.exe
+C:\GC\StudentRegister\StudentRegister\bin\roslyn\VBCSCompiler.exe.config
+C:\GC\StudentRegister\StudentRegister\bin\StudentRegister.dll.config
+C:\GC\StudentRegister\StudentRegister\bin\StudentRegister.dll
+C:\GC\StudentRegister\StudentRegister\bin\StudentRegister.pdb
+C:\GC\StudentRegister\StudentRegister\bin\Antlr3.Runtime.dll
+C:\GC\StudentRegister\StudentRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\GC\StudentRegister\StudentRegister\bin\Microsoft.Web.Infrastructure.dll
+C:\GC\StudentRegister\StudentRegister\bin\Newtonsoft.Json.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Helpers.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Mvc.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Optimization.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Razor.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.WebPages.Deployment.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.WebPages.dll
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.WebPages.Razor.dll
+C:\GC\StudentRegister\StudentRegister\bin\WebGrease.dll
+C:\GC\StudentRegister\StudentRegister\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Helpers.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Mvc.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Optimization.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.Razor.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.WebPages.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.WebPages.Deployment.xml
+C:\GC\StudentRegister\StudentRegister\bin\System.Web.WebPages.Razor.xml
+C:\GC\StudentRegister\StudentRegister\bin\Antlr3.Runtime.pdb
+C:\GC\StudentRegister\StudentRegister\bin\Newtonsoft.Json.xml
+C:\GC\StudentRegister\StudentRegister\obj\Debug\StudentRegister.csprojResolveAssemblyReference.cache
+C:\GC\StudentRegister\StudentRegister\obj\Debug\StudentRegister.dll
+C:\GC\StudentRegister\StudentRegister\obj\Debug\StudentRegister.pdb

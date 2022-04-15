@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFlix", "WebFlix\WebFlix.csproj", "{3682AC32-2DF3-4FBC-AE0A-40B0BA6FA50B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3682AC32-2DF3-4FBC-AE0A-40B0BA6FA50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3682AC32-2DF3-4FBC-AE0A-40B0BA6FA50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3682AC32-2DF3-4FBC-AE0A-40B0BA6FA50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3682AC32-2DF3-4FBC-AE0A-40B0BA6FA50B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8204C1C1-309D-421E-B2BD-3479E5C297B3}
+	EndGlobalSection
+EndGlobal

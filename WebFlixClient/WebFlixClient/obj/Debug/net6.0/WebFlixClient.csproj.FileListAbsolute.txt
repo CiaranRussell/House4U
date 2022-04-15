@@ -1,0 +1,15 @@
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.csproj.AssemblyReference.cache
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.AssemblyInfoInputs.cache
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.AssemblyInfo.cs
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.csproj.CoreCompileInputs.cache
+C:\EAD\WebFlixClient\WebFlixClient\bin\Debug\net6.0\WebFlixClient.exe
+C:\EAD\WebFlixClient\WebFlixClient\bin\Debug\net6.0\WebFlixClient.deps.json
+C:\EAD\WebFlixClient\WebFlixClient\bin\Debug\net6.0\WebFlixClient.runtimeconfig.json
+C:\EAD\WebFlixClient\WebFlixClient\bin\Debug\net6.0\WebFlixClient.dll
+C:\EAD\WebFlixClient\WebFlixClient\bin\Debug\net6.0\WebFlixClient.pdb
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.dll
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\refint\WebFlixClient.dll
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.pdb
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\WebFlixClient.genruntimeconfig.cache
+C:\EAD\WebFlixClient\WebFlixClient\obj\Debug\net6.0\ref\WebFlixClient.dll

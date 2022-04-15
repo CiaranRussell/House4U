@@ -1,0 +1,28 @@
+﻿@{
+    ViewBag.Title = "Temperature Converter";
+    double celsius = ViewBag.Celsius;
+    double fahrenheit = ViewBag.Fahrenheit;
+}
+
+>
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true)
+
+    <div class="editor-label">
+        @Html.LabelFor(c => celsius, "Celsius")
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(c => celsius)
+    </div>
+
+    <div class="display-label">Fahrenheit: @Html.DisplayFor(f => fahrenheit)</div>
+
+    <p>
+        <input type="submit" value="Convert" />
+    </p>
+
+}
+

@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "SayHello1";      // referenced on _layout .cshtml 
+}
+
+<h2>SayHello1 view</h2>
+
+<h2>hello world @ViewBag.Person.Name age @ViewBag.Person.Age</h2>
+
+
+@*@<script type="text/javascript">
+        var message =  "hello world " +'@ViewBag.Person.Name' + " age " + '@ViewBag.Person.Age';
+        alert(message)
+    </script>
+*@
+
+@*ViewBag is a property of the view class, a wrapper for ViewData dictionary *@
+
+
+
+

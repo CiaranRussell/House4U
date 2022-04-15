@@ -1,0 +1,19 @@
+﻿@model HelloWorldMVC.Models.Person
+
+@{
+    ViewBag.Title = "SayHello2";
+}
+
+<h2>SayHello2 view</h2>
+
+<h2>
+    @foreach (String word in ViewBag.Words)
+    {
+        @(word + " ")                       @* explicit code expression inside () *@
+    }
+    @Model.Name age @Model.Age
+</h2>
+
+@* Model is a property of the view class *@
+@* ViewBag is a property of the view class *@
+

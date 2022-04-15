@@ -1,0 +1,116 @@
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\PhoneBook.exe
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\PhoneBook.deps.json
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\PhoneBook.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\ref\PhoneBook.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\PhoneBook.pdb
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.csproj.CopyComplete
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\ref\PhoneBook.dll
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.pdb
+C:\Users\ciaranrussell\source\repos\PhoneBook\phonebook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Humanizer.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CopyComplete
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\refint\PhoneBook.dll
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+C:\EAD\01 - Labs\PhoneBook\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
